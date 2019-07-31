@@ -1,0 +1,22 @@
+{
+  "name": "owl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherishkim42/Rest-of-the-Owl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherishkim42/Rest-of-the-Owl/issues"
+  },
+  "homepage": "https://github.com/cherishkim42/Rest-of-the-Owl#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
